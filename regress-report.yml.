@@ -72,7 +72,7 @@ test-cases:
 #18
 - summary: |
     Проверка совместимости сайта с последней версией Firefox
-  status: fail
+  status: pass
 #19
 - summary: |
     Оценить работу сайта под выосокой нагрузкой 
