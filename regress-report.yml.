@@ -38,7 +38,7 @@ test-cases:
     Убедиться, что все чекбоксы в каталоге имеют подписи
   status: fail
 #10
-  - summary: |
+- summary: |
     Проверить отображение вкладки выбора языков
   status: pass
 #11
@@ -104,7 +104,6 @@ test-cases:
 
 
 bugreports:
-#2
   - summary: |
       Проверка поиска товаров по ключевому слову
     environment: |
