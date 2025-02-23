@@ -3,14 +3,13 @@ name: Dmitry Bulygin
 job: QA Engineer
 level: junior
 email: frosia2h@gmail.com
-description: 
-"Инженер-геодезист"
-
-
-  
+description: |
+ Защитил две магистерские работы,
+ всегда стремлюсь изучать что-то новое
 skills: 
   - Функциональное тестирование
   - Написание багрепортов
   - Linux
   - Слепая печать
   - Английский язык C1
+
