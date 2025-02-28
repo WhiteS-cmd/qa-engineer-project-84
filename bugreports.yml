@@ -184,8 +184,8 @@
     Safari Версия 18.3 (20620.2.4.11.5)
     macOS Sequoia Версия 15.3
   steps-to-reproduce: |
-  1. Открыть Devtools (NetWork)
-  2. Оформить заказ 
+   1. Открыть Devtools (NetWork)
+   2. Оформить заказ 
   expected-result: |
    Заказ передается на сервер
   actual-result: | 
