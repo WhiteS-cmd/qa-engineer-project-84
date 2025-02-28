@@ -218,7 +218,7 @@
   # Новый баг
   - summary:
       Обнаружена пустая строка в списке категорий.
-    nvironment:
+    environment:
        Safari Версия 18.3 (20620.2.4.11.5)
        macOS Sequoia Версия 15.3
     steps-to-reproduce:
