@@ -42,9 +42,9 @@
    Google Chrome  Версия 133.0.6943.99, (arm64)
     macOS Sequoia Версия 15.3
   steps-to-reproduce: |
-    1. Открыть Devtools
-    2. Выбрать меню адаптивности
-    3. Выбрать любой мобильный девайс, например "iphone 12 mini"
+     1. Открыть Devtools
+     2. Выбрать меню адаптивности
+     3. Выбрать любой мобильный девайс, например "iphone 12 mini"
   expected-result: |
     Есть мобильная версия
   actual-result: |
